@@ -1,0 +1,5 @@
+Atelier pratique 1 (en visio) : Introduction au langage R (l’environnement R, 
+manipulation des données et visualisation) 
+
+
+Animateur : Dr Lema Logamou Seknewna 
