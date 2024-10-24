@@ -1,0 +1,5 @@
+Atelier 3 : Introduction à la manipulation de données avec Python (pré
+requis : Installer anaconda) 
+
+
+Animatrice : Lauriane Mbagdjé Dorenan
