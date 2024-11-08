@@ -1,0 +1,18 @@
+Session de présentation (07mn/présentation + 3mn Q&R) 
+ 
+1. Prediction of repurposed drugs for Main Protease (MPro) using artificial 
+intelligence and machine learning   -  Auteur : Leva Frédéric Boido 
+2. Modélisation bayésienne pour l'évaluation du risque de paludisme au Tchad 
+Auteur : Béria Chingnabé Kalpelbé 
+
+3. Améliorer la détection des maladies des plantes - Auteur : Batbaina Guikoura
+
+4. Conception et réalisation d’un programme de traitement pour les données de 
+flux de sève    -  Auteur : Abdoul Aziz Dabakhe Mbaye 
+
+5. Intelligence artificielle et gestion des micro-réseaux autonomes 
+énergétiquement vert en milieux isolés dans une ville africaine : cas de la ville 
+de N’Djamena (Tchad)   -  Auteur : Oueddo Kriga Okim 
+
+6. Approches mathématiques des systèmes de recommandation 
+Auteur : Falissou AMBOUSSIDI 
